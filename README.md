@@ -1,5 +1,6 @@
 # Retail Sales Performance Dashboard
-![Dashboard Preview](retail sales analysis dashboard.png)
+![Dashboard Preview](dashboard_preview.png)
+
 
 
 ## Project Overview
