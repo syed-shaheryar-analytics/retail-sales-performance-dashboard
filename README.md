@@ -1,4 +1,6 @@
 # Retail Sales Performance Dashboard
+![Dashboard Preview](retail sales analysis dashboard.png)
+
 
 ## Project Overview
 This project analyzes retail sales data to evaluate revenue trends, customer behavior, and product performance. The dashboard was built using Power BI with structured data modeling and DAX measures to generate business-focused insights.
